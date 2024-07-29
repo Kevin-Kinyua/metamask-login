@@ -1,7 +1,7 @@
 ## metamask-login
 
 # Install MetaMask: 
-- Ensure you have MetaMask installed in your browser.
+- Ensure you have MetaMask installed in your browser [Chrome, Microsoft Edge or Firefox].
 
 # Set Up Project: 
 - Initialize your project. In this case, enure that node is installed
